@@ -1,4 +1,7 @@
-
+ web application security
+ 
+ 
+ 
 Enumaration - Fuzzing phase
 
 first step check robots.txt

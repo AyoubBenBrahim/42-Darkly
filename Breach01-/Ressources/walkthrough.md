@@ -17,6 +17,7 @@ mkdir -p "$DOWNLOAD_DIR"
 cd "$DOWNLOAD_DIR"
 
 echo "Downloading files from http://$IP/.hidden/ ..."
+
 if wget -np -r -e robots=off "http://$IP/.hidden/" > download.log 2>/dev/null; then
   echo "\n\nDownload complete.\n"
   echo "Searching for files named README that contain digits ...\n\n"

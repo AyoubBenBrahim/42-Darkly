@@ -21,7 +21,7 @@ there is a htpasswd file that contains
 
 with [cipher identifier](https://www.dcode.fr/cipher-identifier) it turns out to be md5
 
-decrypt() = `qwerty123@`
+(decrypt()](https://www.md5online.org/md5-decrypt.html) = `qwerty123@`
 
 we use it to acess. `http://IP/admin/` with Username as 'root'
 

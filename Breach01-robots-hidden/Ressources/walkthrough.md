@@ -4,6 +4,14 @@ first step check robots.txt
 info lerned from [Motasem Hamdan](https://youtu.be/9b2Uj4cCCPw) channel
 
 ```
+nikto -h 10.12.100.231
+
++ Entry '/whatever/' in robots.txt returned a non-forbidden or redirect HTTP code (200)
++ Entry '/.hidden' in robots.txt returned a non-forbidden or redirect HTTP code (301)
++ "robots.txt" contains 2 entries which should be manually viewed.
+```
+
+```
 User-agent: *
 Disallow: /whatever
 Disallow: /.hidden

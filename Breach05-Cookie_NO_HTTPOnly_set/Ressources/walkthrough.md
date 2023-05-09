@@ -14,6 +14,12 @@ If a cookie does not have the HTTPOnly flag set, it can be accessed by client-si
 
 the i_am_admin cookie has value as `68934a3e9455fa72420237eb05902327`
 
+```
+Darkly git:(main) ✗ curl -I http://10.12.100.231/
+HTTP/1.1 200 OK
+Set-Cookie: I_am_admin=68934a3e9455fa72420237eb05902327
+```
+
 when using [Cipher Identifier](https://www.dcode.fr/cipher-identifier) turns out to be md5
 
 when decrypted gives the value `false`, change it to `true`

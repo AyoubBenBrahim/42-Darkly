@@ -7,6 +7,12 @@ User-agent: *
 Disallow: /whatever
 Disallow: /.hidden
 ```
+when using `nikto -h http://10.12.100.231`
+```
++ OSVDB-3268: /whatever/: Directory indexing found.
+```
+
+OSVDB prefix are vulnerabilities reported in the Open Source Vulnerability Database.
 
 "User-agent: *," indicates that the instructions that follow apply to all web robots.
 

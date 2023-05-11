@@ -1,3 +1,5 @@
+in page http://IP/index.php?page=survey
+
 
 
 ![alt text](./img.png)

@@ -13,6 +13,7 @@ portswigger docs on XSS
 
 ## # Prevention
 
+Input validation
 
 Sanitizing HTML refers to the process of removing or neutralizing potentially harmful or unwanted elements, attributes, or scripts from an HTML input. It is commonly done as a security measure to prevent Cross-Site Scripting (XSS) attacks and to ensure that the HTML code adheres to certain guidelines or restrictions.
 

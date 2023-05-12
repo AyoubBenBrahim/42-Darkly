@@ -50,5 +50,11 @@ we use the password to acess. `http://IP/admin/` with Username as 'root' (tried 
 
 The flag is : `d19b4823e0d5600ceed56d5e896ef328d7a2b9e7ac7e80f4fcdb9b10bcb3e7ff`
 
+## # Prevention
 
+1/ Use access controls: used to regulate who has access to specific resources, data, or systems. Access controls are implemented to prevent unauthorized access to sensitive information or resources and to ensure that only authorized individuals or systems are allowed to access them.
+
+2/ Use encryption: Use encryption to protect sensitive information in transit and at rest. This will help prevent unauthorized access to the information.
+
+3/ Monitor access logs: Regularly monitor access logs to identify any unauthorized access attempts or suspicious activity. This will help you detect and respond to potential security threats.
 

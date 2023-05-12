@@ -1,5 +1,5 @@
 
-Modifying HTTP requests with Burp Proxy
+# Modifying HTTP requests with Burp Proxy
 
 going through the html on the link `© BornToSec` at the bottom
 ```

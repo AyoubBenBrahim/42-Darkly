@@ -2,11 +2,11 @@
 Modifying HTTP requests with Burp Proxy
 
 going through the html on the link `© BornToSec` at the bottom
-
+```
 You must come from : "https://www.nsa.gov/".
 
 Let's use this browser : "ft_bornToSec". It will help you a lot.
-
+```
 ```
 GET /?page=b7e44c7a40c5f80139f0a50f3650fb2bd8d00b0d24667c4c2ca32c88e13b758f HTTP/1.1
 Host: 10.12.100.231

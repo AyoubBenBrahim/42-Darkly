@@ -1,5 +1,7 @@
  # web application security
  
+ check the subject
+ 
 This project aims to make you discover cyber security in the field of the WWW
  
 you will learn about these risks and vulnerabilities while auditing a simple website. This website shows breaches, some
@@ -9,6 +11,8 @@ of which still show on well established websites you visit on a daily basis.
  **********************************
  
 Enumaration - Fuzzing phase
+
+Burp Suite
 
 ```
 nikto -h 10.12.100.231

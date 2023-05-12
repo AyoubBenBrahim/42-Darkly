@@ -10,6 +10,8 @@ of which still show on well established websites you visit on a daily basis.
  
 Enumaration - Fuzzing phase
 
+Burp Suite
+
 ```
 nikto -h 10.12.100.231
 - Nikto v2.1.6

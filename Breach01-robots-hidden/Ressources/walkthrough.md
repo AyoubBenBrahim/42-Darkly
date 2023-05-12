@@ -51,3 +51,12 @@ fi
 ```
 
 here is your flag : `d5eec3ec36cf80dce44a896f961c1831a05526ec215693c8f2c39543497d4466`
+
+
+## # Prevention
+
+To prevent the web server from displaying a directory listing, like the "autoindex" feature in Nginx, we can disable the directory listing functionality.
+
+In order to achieve this, we need to configure our web server to not show the contents of a directory when there is no index file present. This ensures that if a user accesses a directory URL, the web server will not display a listing of the files and directories within that directory.
+
+The exact method to disable directory listing depends on the web server software we are using. However, in general, we would typically need to modify the web server configuration file and add directives to disable directory listing.

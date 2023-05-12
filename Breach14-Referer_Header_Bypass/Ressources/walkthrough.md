@@ -57,3 +57,7 @@ curl 'http://10.12.100.231/?page=b7e44c7a40c5f80139f0a50f3650fb2bd8d00b0d24667c4
 ```
 <center><h2 style="margin-top:50px;"> The flag is : f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188</h2><br/><img src="images/win.png" alt="" width=200px height=200px></center> <audio id="best_music_ever" src="audio/music.mp3"preload="true" loop="loop" autoplay="autoplay">
 ```
+
+## # Prevention
+
+To access the page, a verification may be required, and we can accomplish this by requesting a pass token through the params.
